@@ -1,1 +1,3 @@
 # WednesdayTodo
+
+React+Redux
